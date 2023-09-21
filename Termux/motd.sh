@@ -1,7 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Welcome message
-pkg install ruby
-gem install lolcat
 clear
 
 echo -e "
@@ -14,6 +12,6 @@ echo -e "
      ░     ░ ░  ░  ░▒ ░ ▒░░  ░      ░░░▒░ ░ ░ ░░   ░▒ ░
    ░         ░     ░░   ░ ░      ░    ░░░ ░ ░  ░    ░  
              ░  ░   ░            ░      ░      ░    ░  
-" | lolcat -a -s 10
-date | lolcat -a -d 10
-echo -e "----------------------------" | lolcat -a -d 20
+";
+date
+echo -e "----------------------------";
