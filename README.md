@@ -23,9 +23,7 @@ chmod +x setup sh
 bash setup sh
 
 ```
-
-
-https://github.com/user-attachments/assets/08065ecd-d37c-498e-90ac-32db5eb44dc1
+# powerli
 
 
 
@@ -51,15 +49,6 @@ https://github.com/user-attachments/assets/08065ecd-d37c-498e-90ac-32db5eb44dc1
 -   Checkout [OhMyZsh Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Home) to see how to customize it, add plugins and themes.
 -   Checkout [lf-basics](https://github.com/gokcehan/lf/wiki/Tutorial#basics) to learn how to use the lf file manager and customize it.
 
-### Installation
-
--   First update termux packages to latest versions by entering `pkg update` , you can answer `Y` to any prompts afterwards if its a clean termux install.
--   Install git `pkg install git`
--   Clone this repo and cd to dir `git clone https://github.com/SUBUR78990/Termux-zsh2.git `
--   Run setup file with bash `bash setup.sh`
--   It will ask for storage permission, give it.
--   Restart termux after setup is done.
--   On first start it will fetch and setup some things in background, leave it for a minute and its done.
 
 ### Update
 
