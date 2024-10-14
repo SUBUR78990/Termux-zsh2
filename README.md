@@ -5,7 +5,8 @@
 
 
 
-![Termux-zsh-SS](https://github.com/user-attachments/assets/0b3ef32a-65fc-4793-83dd-f5f051e484dc)
+![Termux-zsh-SS](https://github.com/user-attachments/assets/14ad1e73-672f-4527-a3f9-c23dfe990a24)
+
 
 # cara install cukup mudah,  copy paste printah di bawah ke termux anda
 ```
