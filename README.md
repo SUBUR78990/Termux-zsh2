@@ -8,10 +8,20 @@
 ![Termux-zsh-SS](https://github.com/user-attachments/assets/0b3ef32a-65fc-4793-83dd-f5f051e484dc)
 
 
-# # 
-$ 
-'''
 
+
+'''
+apt upgrade
+
+pkg install git
+
+git clone https://github.com/SUBUR78990/Termux-zsh2.git
+
+cd Termux-zsh2
+
+chmod +x setup sh
+
+bash setup sh
 
 '''
 ### What it does
