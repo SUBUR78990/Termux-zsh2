@@ -7,7 +7,7 @@
 
 ![Termux-zsh-SS](https://github.com/user-attachments/assets/0b3ef32a-65fc-4793-83dd-f5f051e484dc)
 
-
+# cara install cukup mudah, perintah di bawah ini copy paste ke termux anda
 
 
 '''
