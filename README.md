@@ -24,6 +24,11 @@ bash setup sh
 
 ```
 
+
+https://github.com/user-attachments/assets/08065ecd-d37c-498e-90ac-32db5eb44dc1
+
+
+
 ### What it does
 
 -   Installs zsh and sets it as default shell.
