@@ -3,7 +3,7 @@
 \
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/598b9e66297c4323a25dada99d377a11)](https://app.codacy.com/gh/Sohil876/Termux-zsh/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-##
+
 
 ![Termux-zsh-SS](https://github.com/user-attachments/assets/0b3ef32a-65fc-4793-83dd-f5f051e484dc)
 
