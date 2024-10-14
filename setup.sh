@@ -77,8 +77,19 @@ finish_install() {
 }
 
 # Start installation
-echo -e "${green}Install Oh-My-Zsh? [Y/n]${nocol}"
-read -p "" -n 1 -r yn;
+clear
+echo -e "\e[0;31m
+ ██████╗  █████╗ ███████╗██╗  ██╗███████╗██╗   ██╗███╗   ██╗
+██╔════╝ ██╔══██╗██╔════╝██║ ██╔╝██╔════╝██║   ██║████╗  ██║
+██║  ███╗███████║███████╗█████╔╝ █████╗  ██║   ██║██╔██╗ ██║
+\e[0;37m██║   ██║██╔══██║╚════██║██╔═██╗ ██╔══╝  ██║   ██║██║╚██╗██║
+╚██████╔╝██║  ██║███████║██║  ██╗███████╗╚██████╔╝██║ ╚████║
+ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+\e[0;33m        [\e[0;32m  TERMUX STYLE & COMMAND PROMPT  \e[0;33m]
+";
+
+echo -e "${green}INSTALL.? [Y/n]${nocol}\n"
+read -p "[•] PILIH > " -n 1 -r yn;
 echo "" # For newline
 case ${yn} in
     [Yy]* )
@@ -95,7 +106,7 @@ case ${yn} in
 esac
 
 # Error msg for invalid choice
-echo -e "${red}Invalid choice!${nocol}"
+echo -e "${red} PILIH YANG BENER SAYANG ${nocol}"
 echo ""
 exit 1
 
