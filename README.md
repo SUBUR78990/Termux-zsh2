@@ -9,8 +9,9 @@
 
 # cara install cukup mudah, perintah di bawah ini copy paste ke termux anda
 
-
+-------------------------------------------------------
 '''
+
 apt upgrade
 
 pkg install git
