@@ -10,7 +10,7 @@
 # cara install cukup mudah, perintah di bawah ini copy paste ke termux anda
 
 -------------------------------------------------------
-'''
+
 
 apt upgrade
 
@@ -24,7 +24,7 @@ chmod +x setup sh
 
 bash setup sh
 
-'''
+
 ### What it does
 
 -   Installs zsh and sets it as default shell.
